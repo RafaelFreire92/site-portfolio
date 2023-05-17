@@ -21,3 +21,7 @@ Nesse curso você vai dominar todo **git** e **github** _do zero ao pro_.
 ### Rede social:
 
 [Instagram](https://instagram.com/rafael_rfs)
+
+> Este é um blockquote usado para descatar alguma area.
+>
+> Segunda área destacada
