@@ -26,7 +26,7 @@ Nesse curso você vai dominar todo **git** e **github** _do zero ao pro_.
 >
 > Segunda área destacada
 
-**Comando para rodas o projeto:**
+### Comando para rodas o projeto:
 
 ```
 npm start
